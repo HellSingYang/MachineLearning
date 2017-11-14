@@ -21,5 +21,5 @@ def solve(x,iter=100,TOL=0.001):
 	print(x)
 	print(i)
 
-solve(4.7)
+solve(4.7)sadsadsa
 
