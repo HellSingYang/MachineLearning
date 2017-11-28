@@ -1,0 +1,75 @@
+\sectbegin 
+\contentsline {section}{\numberline {1}Khoan d\IeC {\horn u}\IeC {\'\ohorn }i c\IeC {\^a}n b\IeC {\`\abreve }ng}{3}
+\contentsline {subsection}{\numberline {1.1}T\IeC {\h \ocircumflex }ng quan}{3}
+\contentsline {subsection}{\numberline {1.2}Nh\IeC {\~\uhorn }ng k\IeC {\~y} thu\IeC {\d \acircumflex }t trong khoan d\IeC {\horn u}\IeC {\'\ohorn }i c\IeC {\^a}n b\IeC {\`\abreve }ng}{3}
+\contentsline {subsection}{\numberline {1.3}Nh\IeC {\~\uhorn }ng \IeC {\horn u}u \IeC {\dj }i\IeC {\h \ecircumflex }m v\IeC {\`a} h\IeC {\d a}n ch\IeC {\'\ecircumflex } khi s\IeC {\h \uhorn } d\IeC {\d u}ng ph\IeC {\horn u}\IeC {\horn o}ng ph\IeC {\'a}p khoan d\IeC {\horn u}\IeC {\'\ohorn }i c\IeC {\^a}n b\IeC {\`\abreve }ng}{4}
+\contentsline {section}{\numberline {2}K\IeC {\~y} thu\IeC {\d \acircumflex }t khoan kh\IeC {\'\i } kh\IeC {\^o}}{4}
+\contentsline {subsection}{\numberline {2.1}T\IeC {\h \ocircumflex }ng quan}{4}
+\contentsline {subsection}{\numberline {2.2}Thi\IeC {\'\ecircumflex }t b\IeC {\d i} khoan}{5}
+\contentsline {subsubsection}{\numberline {2.2.1}\IeC {\DJ }\IeC {\`\acircumflex }u xoay}{5}
+\contentsline {subsubsection}{\numberline {2.2.2}Bit float v\IeC {\`a} String float}{5}
+\contentsline {subsubsection}{\numberline {2.2.3}Fire float v\IeC {\`a} Fire stop float}{6}
+\contentsline {subsubsection}{\numberline {2.2.4}\IeC {\'\OCIRCUMFLEX }ng th\IeC {\'a}o c\IeC {\d a}n}{7}
+\contentsline {subsubsection}{\numberline {2.2.5}B\IeC {\`\i }nh t\IeC {\'a}ch, m\IeC {\'a}y kh\IeC {\h \uhorn } b\IeC {\d u}i, b\IeC {\d \ocircumflex } gi\IeC {\h a}m \IeC {\^a}m}{7}
+\contentsline {subsubsection}{\numberline {2.2.6}H\IeC {\d \ecircumflex } th\IeC {\'\ocircumflex }ng b\IeC {\horn o}m kh\IeC {\'\i }}{7}
+\contentsline {subsubsection}{\numberline {2.2.7}B\IeC {\horn o}m s\IeC {\horn u}\IeC {\horn o}ng}{7}
+\contentsline {subsection}{\numberline {2.3}Ph\IeC {\horn u}\IeC {\horn o}ng ph\IeC {\'a}p v\IeC {\d \acircumflex }n h\IeC {\`a}nh}{8}
+\contentsline {subsubsection}{\numberline {2.3.1}Tu\IeC {\`\acircumflex }n ho\IeC {\`a}n dung d\IeC {\d i}ch}{8}
+\contentsline {subsubsection}{\numberline {2.3.2}L\IeC {\`a}m kh\IeC {\^o} gi\IeC {\'\ecircumflex }ng}{8}
+\contentsline {subsubsection}{\numberline {2.3.3}V\IeC {\d \acircumflex }n h\IeC {\`a}nh}{8}
+\contentsline {subsubsection}{\numberline {2.3.4}K\IeC {\'\ecircumflex }t n\IeC {\'\ocircumflex }i}{9}
+\contentsline {subsubsection}{\numberline {2.3.5}L\IeC {\`a}m s\IeC {\d a}ch gi\IeC {\'\ecircumflex }ng}{9}
+\contentsline {subsection}{\numberline {2.4}Downhole fires}{9}
+\contentsline {subsection}{\numberline {2.5}H\IeC {\d \ecircumflex } th\IeC {\'\ocircumflex }ng tu\IeC {\`\acircumflex }n ho\IeC {\`a}n ng\IeC {\horn u}\IeC {\d \ohorn }c}{10}
+\contentsline {section}{\numberline {3}K\IeC {\~y} thu\IeC {\d \acircumflex }t khoan b\IeC {\`\abreve }ng kh\IeC {\'\i } m\IeC {\`u}}{11}
+\contentsline {subsection}{\numberline {3.1}T\IeC {\h \ocircumflex }ng quan}{11}
+\contentsline {subsection}{\numberline {3.2}V\IeC {\d \acircumflex }n h\IeC {\`a}nh}{11}
+\contentsline {section}{\numberline {4}K\IeC {\~y} thu\IeC {\d \acircumflex }t khoan b\IeC {\`\abreve }ng kh\IeC {\'\i } t\IeC {\d \uhorn } nhi\IeC {\^e}n}{13}
+\contentsline {subsection}{\numberline {4.1}T\IeC {\h \ocircumflex }ng quan}{13}
+\contentsline {subsection}{\numberline {4.2}\IeC {\horn U}u \IeC {\dj }i\IeC {\h \ecircumflex }m}{13}
+\contentsline {subsubsection}{\numberline {4.2.1}Ch\IeC {\'\ocircumflex }ng \IeC {\u a}n m\IeC {\`o}n}{13}
+\contentsline {subsubsection}{\numberline {4.2.2}Down-Hole Fires}{13}
+\contentsline {subsubsection}{\numberline {4.2.3}Ti\IeC {\d \ecircumflex }n l\IeC {\d \ohorn }i}{13}
+\contentsline {section}{\numberline {5}K\IeC {\~y} thu\IeC {\d \acircumflex }t khoan b\IeC {\`\abreve }ng b\IeC {\d o}t}{13}
+\contentsline {subsection}{\numberline {5.1}T\IeC {\h \ocircumflex }ng quan}{13}
+\contentsline {subsection}{\numberline {5.2}Kh\IeC {\h a} n\IeC {\u a}ng l\IeC {\`a}m s\IeC {\d a}ch gi\IeC {\'\ecircumflex }ng}{14}
+\contentsline {subsection}{\numberline {5.3}H\IeC {\d \ecircumflex } th\IeC {\'\ocircumflex }ng thi\IeC {\'\ecircumflex }t b\IeC {\d i}}{14}
+\contentsline {subsection}{\numberline {5.4}Th\IeC {\`a}nh ph\IeC {\`\acircumflex }n dung d\IeC {\d i}ch}{14}
+\contentsline {subsubsection}{\numberline {5.4.1}Dung d\IeC {\d i}ch b\IeC {\d o}t g\IeC {\'\ocircumflex }c n\IeC {\horn u}\IeC {\'\ohorn }c}{14}
+\contentsline {subsubsection}{\numberline {5.4.2}Dung d\IeC {\d i}ch b\IeC {\d o}t g\IeC {\'\ocircumflex }c d\IeC {\`\acircumflex }u}{14}
+\contentsline {subsection}{\numberline {5.5}H\IeC {\d a}n ch\IeC {\'\ecircumflex }}{15}
+\contentsline {section}{\numberline {6}K\IeC {\~y} thu\IeC {\d \acircumflex }t khoan b\IeC {\`\abreve }ng b\IeC {\d o}t s\IeC {\'a}nh}{16}
+\contentsline {section}{\numberline {7}K\IeC {\~y} thu\IeC {\d \acircumflex }t Snub drilling}{16}
+\contentsline {subsection}{\numberline {7.1}T\IeC {\h \ocircumflex }ng quan}{16}
+\contentsline {subsection}{\numberline {7.2}Thi\IeC {\'\ecircumflex }t b\IeC {\d i}}{17}
+\contentsline {subsubsection}{\numberline {7.2.1}H\IeC {\d \ecircumflex } th\IeC {\'\ocircumflex }ng th\IeC {\h u}y l\IeC {\d \uhorn }c}{17}
+\contentsline {subsubsection}{\numberline {7.2.2}H\IeC {\d \ecircumflex } th\IeC {\'\ocircumflex }ng Snubbing}{17}
+\contentsline {section}{\numberline {8}K\IeC {\~y} thu\IeC {\d \acircumflex }t khoan b\IeC {\`\abreve }ng kh\IeC {\'\i } Nit\IeC {\horn o}}{19}
+\contentsline {subsection}{\numberline {8.1}M\IeC {\`a}ng Nit\IeC {\horn o}}{19}
+\contentsline {subsubsection}{\numberline {8.1.1}\IeC {\horn U}u \IeC {\dj }i\IeC {\h \ecircumflex }m}{19}
+\contentsline {subsubsection}{\numberline {8.1.2}H\IeC {\d a}n ch\IeC {\'\ecircumflex }}{20}
+\contentsline {subsection}{\numberline {8.2}Nit\IeC {\horn o} l\IeC {\h o}ng}{20}
+\contentsline {subsubsection}{\numberline {8.2.1}\IeC {\horn U}u \IeC {\dj }i\IeC {\h \ecircumflex }m}{20}
+\contentsline {subsubsection}{\numberline {8.2.2}H\IeC {\d a}n ch\IeC {\'\ecircumflex }}{20}
+\contentsline {section}{\numberline {9}K\IeC {\~y} thu\IeC {\d \acircumflex }t khoan b\IeC {\`\abreve }ng Gaseated Fluid}{21}
+\contentsline {subsection}{\numberline {9.1}T\IeC {\h \ocircumflex }ng quan}{21}
+\contentsline {subsection}{\numberline {9.2}D\IeC {\d \uhorn } \IeC {\dj }o\IeC {\'a}n \IeC {\'a}p su\IeC {\'\acircumflex }t th\IeC {\h u}y t\IeC {\~\i }nh}{21}
+\contentsline {subsection}{\numberline {9.3}Gi\IeC {\'\ohorn }i h\IeC {\d a}n th\IeC {\h \ecircumflex } t\IeC {\'\i }ch kh\IeC {\'\i } v\IeC {\`a} th\IeC {\h \ecircumflex } t\IeC {\'\i }ch dung d\IeC {\d i}ch}{21}
+\contentsline {subsubsection}{\numberline {9.3.1}Gi\IeC {\'\ohorn }i h\IeC {\d a}n th\IeC {\h \ecircumflex } t\IeC {\'\i }ch kh\IeC {\'\i }}{21}
+\contentsline {subsubsection}{\numberline {9.3.2}Gi\IeC {\'\ohorn }i h\IeC {\d a}n th\IeC {\h \ecircumflex } t\IeC {\'\i }ch dung d\IeC {\d i}ch}{22}
+\contentsline {subsection}{\numberline {9.4}\IeC {\horn U}u \IeC {\dj }i\IeC {\h \ecircumflex }m}{22}
+\contentsline {subsubsection}{\numberline {9.4.1}B\IeC {\h a}o v\IeC {\d \ecircumflex } v\IeC {\h i}a}{22}
+\contentsline {subsubsection}{\numberline {9.4.2}Lo\IeC {\d a}i b\IeC {\h o} ho\IeC {\d \abreve }c l\IeC {\`a}m gi\IeC {\h a}m m\IeC {\'\acircumflex }t dung d\IeC {\d i}ch}{22}
+\contentsline {subsubsection}{\numberline {9.4.3}Lo\IeC {\d a}i b\IeC {\h o} v\IeC {\'\acircumflex }n \IeC {\dj }\IeC {\`\ecircumflex } k\IeC {\d e}t c\IeC {\`\acircumflex }n do ch\IeC {\^e}nh l\IeC {\d \ecircumflex }ch \IeC {\'a}p su\IeC {\'\acircumflex }t}{22}
+\contentsline {subsubsection}{\numberline {9.4.4}T\IeC {\u a}ng t\IeC {\'\ocircumflex }c \IeC {\dj }\IeC {\d \ocircumflex } khoan v\IeC {\`a} tu\IeC {\h \ocircumflex }i th\IeC {\d o} c\IeC {\h u}a ch\IeC {\`o}ong khoan}{23}
+\contentsline {subsubsection}{\numberline {9.4.5}\IeC {\DJ }\IeC {\'a}nh gi\IeC {\'a} v\IeC {\h i}a}{23}
+\contentsline {subsection}{\numberline {9.5}H\IeC {\d a}n ch\IeC {\'\ecircumflex }}{23}
+\contentsline {subsubsection}{\numberline {9.5.1}Gi\IeC {\'a} th\IeC {\`a}nh}{23}
+\contentsline {subsubsection}{\numberline {9.5.2}Pressure surges}{23}
+\contentsline {subsubsection}{\numberline {9.5.3}M\IeC {\d \ocircumflex }t s\IeC {\'\ocircumflex } h\IeC {\d a}n ch\IeC {\'\ecircumflex } kh\IeC {\'a}c}{23}
+\contentsline {section}{\numberline {10}K\IeC {\~y} thu\IeC {\d \acircumflex }t Flow-drilling}{24}
+\contentsline {subsection}{\numberline {10.1}T\IeC {\h \ocircumflex }ng quan}{24}
+\contentsline {subsection}{\numberline {10.2}H\IeC {\d \ecircumflex } th\IeC {\'\ocircumflex }ng thi\IeC {\'\ecircumflex }t b\IeC {\d i} b\IeC {\`\ecircumflex } m\IeC {\d \abreve }t}{24}
+\contentsline {subsection}{\numberline {10.3}Ki\IeC {\h \ecircumflex }m so\IeC {\'a}t \IeC {\dj }\IeC {\`\acircumflex }u xoay}{24}
+\contentsline {subsection}{\numberline {10.4}Ph\IeC {\horn u}\IeC {\horn o}ng ph\IeC {\'a}p v\IeC {\d \acircumflex }n h\IeC {\`a}nh}{24}
+\contentsline {subsection}{\numberline {10.5}H\IeC {\d a}n ch\IeC {\'\ecircumflex } c\IeC {\h u}a ph\IeC {\horn u}\IeC {\horn o}ng ph\IeC {\'a}p}{24}
